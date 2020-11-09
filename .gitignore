@@ -1,0 +1,6 @@
+.emacs.d/.dap-breakpoints
+.emacs.d/.lsp-session-v1
+.emacs.d/auto-save-list/
+.emacs.d/backup/
+.emacs.d/elpa/
+.emacs.d/eshell/
